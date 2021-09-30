@@ -1,15 +1,17 @@
+Hospedagem:https://letmeask-61580.web.app/
+Para criar uma sala basta entrar com uma conat Google
 ***Iniciar****
 yarn start
-***Instalações*****
+***InstalaÃ§Ãµes*****
 yarn add firebase
 yarn add node-sass@^5.0.0
 yarn add react-router-dom
 yarn add @types/react-router-dom
 yarn add classnames
-***Arquivos Necessários****
-node.js:versão 14.17.1
+***Arquivos NecessÃ¡rios****
+node.js:versÃ£o 14.17.1
 yarn:gerenciador de pacotes
-firebase:usando auentifiação e database
+firebase:usando auentifiaÃ§Ã£o e database
 
 **Hospedar**
 
